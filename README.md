@@ -1,7 +1,7 @@
 # Autonomous Driving Without Lane Marks
 
 ## 📌 Jira Link  
-[Click here to view our project board](https://yourteam.atlassian.net/jira/software/projects/ADWL/boards/1)
+[Click here to view our project board]([https://yourteam.atlassian.net/jira/software/projects/ADWL/boards/1](https://cs3338-03-group-5.atlassian.net/jira/software/projects/ADC/boards/6))
 
 ## 🚗 Project Overview  
 This project focuses on developing a software system that enables autonomous vehicles to drive safely on roads where lane markings are unclear, damaged, or completely absent. The algorithm is tested in both a simulator and a prototype car.
